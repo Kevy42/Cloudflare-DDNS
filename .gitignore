@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Temporary
-test.txt
+# DO NOT REMOVE OR FUCK UP!
+Settings.yaml
